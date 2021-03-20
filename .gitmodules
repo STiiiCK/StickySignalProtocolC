@@ -1,0 +1,3 @@
+[submodule "sticky-signal-protocol-c"]
+	path = sticky-signal-protocol-c
+	url = ./sticky-signal-protocol-c
